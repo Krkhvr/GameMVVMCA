@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008557510889",
+    "project_id": "gamemvvmca",
+    "storage_bucket": "gamemvvmca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008557510889:android:29a65ec0a31bc252e1e078",
+        "android_client_info": {
+          "package_name": "com.krkhvr.gamemvvmca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UqjyOfWRUoWvgUC2lGdFNpdNPwK39HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
